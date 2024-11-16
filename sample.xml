@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<place>
+<data>
+<item>Hello from XML!</item>
+<item>This is another line from XML.</item>
+<item>Name.Hassan</item>
+</data>
+<data>
+<item>Hello from XML!</item>
+<item>This is another line from XML.</item>
+<item>Name.Hassan</item>
+</data>
+</place>

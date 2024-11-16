@@ -1,0 +1,5 @@
+{
+  "message": "Hello from JSON!",
+  "additional_message": "This is another line from JSON.",
+  "extra_info": "More content from JSON file."
+}
